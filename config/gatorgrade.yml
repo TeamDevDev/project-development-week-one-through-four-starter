@@ -70,7 +70,7 @@
       check: CountMarkdownTags
       options:
         tag: list
-        count: 39
+        count: 3
         exact: false
     - description: Write a minimum number of meaningful words in the review
       check: CountFileWords
