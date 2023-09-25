@@ -74,40 +74,26 @@ TODO: Here is the web reference: https://developerdevelopment.com/syllabus/#lear
 
 TODO: Please provide a list of the GitHub issues that you created:
 
-- https://github.com/AstuteSource/chasten/issues/61
-- https://github.com/AstuteSource/chasten/issues/61
 
 TODO: Please provide a list of the GitHub issues for which you participated in the discussion:
 
-- https://github.com/AstuteSource/chasten/issues/61
-- https://github.com/AstuteSource/chasten/issues/61
 
 TODO: Please provide a list of the GitHub issues for which you help to resolve the problem:
 
-- https://github.com/AstuteSource/chasten/issues/61
-- https://github.com/AstuteSource/chasten/issues/61
 
 ##### Pull Requests
 
 TODO: Please provide a list of the GitHub pull requests that you created:
 
-- https://github.com/AstuteSource/chasten/issues/61
-- https://github.com/AstuteSource/chasten/issues/61
 
 TODO: Please provide a list of the GitHub pull requests for which you participated in the discussion:
 
-- https://github.com/AstuteSource/chasten/issues/61
-- https://github.com/AstuteSource/chasten/issues/61
 
-TODO: Please provide a list of the GitHub pull requests for which made a major contribution:
+TODO: Please provide a list of the GitHub pull requests for which you made a major contribution:
 
-- https://github.com/AstuteSource/chasten/issues/61
-- https://github.com/AstuteSource/chasten/issues/61
 
 TODO: Please provide a list of your GitHub pull requests that were merged to the project's trunk:
 
-- https://github.com/AstuteSource/chasten/issues/61
-- https://github.com/AstuteSource/chasten/issues/61
 
 ##### Project Commits
 
